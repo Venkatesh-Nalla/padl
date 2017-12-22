@@ -36,6 +36,7 @@ dependencies {
     compile files('lib/db4o-7.12.132.14217-all-java5.jar')
     compile files('lib/jdi.jar')
     compile files('lib/jdimodel.jar')
+    compile files('lib/jchoco.jar')
 	    
     testImplementation 'junit:junit:4.12'
 }
